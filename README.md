@@ -1,3 +1,11 @@
+question: to create dynamic html for a given json file
+
+what do u need?
+node https://nodejs.org/en/download/
+react (run the command 'npm i -g create-react-app')
+
+react is used to render the html created with these json files. u need node for running react
+
 how to run: use 'npm start' command
 
 input: currently we have 2 sample input folders in "src/data" namely "mark.json" and "mark2.json"
